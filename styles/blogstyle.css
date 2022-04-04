@@ -155,11 +155,6 @@ h4{
     cursor: pointer;
 }
 .bar3:hover{
-    background-color: ;
+    background-color:#ccedff ;
     cursor: pointer;
-    padding-bottom: 1rem;
-}
-.more{
-    background-color: #e7e8eb;
-    margin: 1rem;
 }
